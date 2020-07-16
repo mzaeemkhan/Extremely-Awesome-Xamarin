@@ -32,12 +32,15 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
 <li><a href="https://github.com/xamvvm/xamvvm"> xamvvm/xamvvm  ★120 </a>: Simple MVVM (Model, ViewModel, View) Framework for .Net - Xamarin.Forms compatible </li>
 <li><a href="https://github.com/winstongubantes/MatchaBackgroundService">  winstongubantes/MatchaBackgroundService   ★111 </a>: A plugin library to simplify Backgrounding in Xamarin.Forms.  </li>
  <li><a href="https://github.com/jsuarezruiz/MyTasks">jsuarezruiz/MyTasks ★69 </a>: Xamarin.Forms goodlooking UI sample. </li>
- <li><a href="https://github.com/xamarinium/ParallaxScroll">xamarinium/ParallaxScroll  ★44 </a>: Xamarin forms parallax scroll effect </li>
- <li><a href="https://github.com/kikettas/Xamapod">kikettas/Xamapod   ★30 </a>: A tool to export a Cocoapods library to a Xamarin project </li>
- <li><a href="https://github.com/jamesmontemagno/app-compass">jamesmontemagno/app-compass    ★26 </a>: Creating a simple compass application with Xamarin.Forms and Xamarin.Essentials. </li>
-<li><a href="https://github.com/CrossGeeks/TooltipSample"> CrossGeeks/TooltipSample     ★22 </a>: Xamarin Forms Showing Tooltips Sample  </li>
-<li><a href="https://github.com/CrossGeeks/OverlaySample">  CrossGeeks/OverlaySample      ★20 </a>: Sample that shows how to add native overlays in Xamarin Forms </li>
-  
+ <li><a href="https://github.com/xamarinium/ParallaxScroll">xamarinium/ParallaxScroll ★44 </a>: Xamarin forms parallax scroll effect </li>
+ <li><a href="https://github.com/kikettas/Xamapod">kikettas/Xamapod ★30 </a>: A tool to export a Cocoapods library to a Xamarin project </li>
+ <li><a href="https://github.com/jamesmontemagno/app-compass">jamesmontemagno/app-compass ★26 </a>: Creating a simple compass application with Xamarin.Forms and Xamarin.Essentials. </li>
+<li><a href="https://github.com/CrossGeeks/TooltipSample"> CrossGeeks/TooltipSample ★22 </a>: Xamarin Forms Showing Tooltips Sample  </li>
+<li><a href="https://github.com/CrossGeeks/OverlaySample">  CrossGeeks/OverlaySample ★20 </a>: Sample that shows how to add native overlays in Xamarin Forms </li>
+<li><a href="https://github.com/patridge/PDRating">patridge/PDRating ★16 </a>: Display and collect user ratings for items in your Xamarin.iOS app. Available on NuGet. </li>
+ <li><a href="https://github.com/Softeq/IDMPhotoBrowser-xamarin-ios">Softeq/IDMPhotoBrowser-xamarin-ios ★10 </a>: Xamarin binding library for IDMPhotoBrowser iOS library </li>
+<li><a href="https://github.com/NAXAM/stripe-ios-binding">NAXAM/stripe-ios-binding ★9 </a>: Xamarin Binding Library - Stripe iOS SDK</li>
+<li><a href="https://github.com/CrossGeeks/WowzaClientPlugin">CrossGeeks/WowzaClientPlugin  ★7 </a>: Wowza Client Plugin for Xamarin iOS and Android</li>
 </ul>
 
 
