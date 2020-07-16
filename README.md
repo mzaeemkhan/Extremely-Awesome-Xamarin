@@ -2,6 +2,23 @@
 
 A hand-picked bookmark collection of open-source libraries/tools and projects for Xamarin Android/iOS/Windows/OSX
 
+<h2><a class="anchor" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>April 2019</h2>
+
+<ul>
+     <li><a href="https://github.com/framinosona/Converters"> framinosona/Converters  ★179 </a>: Local Notifications Plugin for Xamarin and Windows   </li>
+<li><a href="https://github.com/nuitsjp/Xamarin.Forms.BehaviorsPack">nuitsjp/Xamarin.Forms.BehaviorsPack ★67 </a>: Xamarin.Forms.BehaviorsPack is Behavior class library for Xamarin.Forms.</li>
+  <li><a href="https://github.com/yuv4ik/vsmacdeepclean">yuv4ik/vsmacdeepclean ★32 </a>: Visual Studio for macOS add-in / extension that brings you tasty features. </li>
+<li><a href="https://github.com/ahoefling/CircleButtonMenu">ahoefling/CircleButtonMenu  ★19 </a>: Circle Button Menu for Xamarin.Forms </li>
+<li><a href="https://github.com/Phenek/Global.VideoPlayer">Phenek/Global.VideoPlayer ★16 </a>: A simple VideoPlayer for Xamarin.forms </li>
+<li><a href="https://github.com/CrossGeeks/ConnectionChangesForms">CrossGeeks/ConnectionChangesForms ★9 </a>: Handling connection changes in Xamarin Forms </li>
+ <li><a href="https://github.com/SyncfusionExamples/xamarin-forms-appointment-scheduler">SyncfusionExamples/xamarin-forms-appointment-scheduler ★6 </a>: This repository contains a cross-platform appointment scheduler app built using Xamarin.Forms and Syncfusion scheduler control. </li>
+   <li><a href="https://github.com/SyncfusionExamples/xamarin-forms-appointment-scheduler">SyncfusionExamples/xamarin-forms-appointment-scheduler ★6 </a>: This repository contains a cross-platform appointment scheduler app built using Xamarin.Forms and Syncfusion scheduler control. </li>
+   <li><a href="https://github.com/jacktux/Xamarin-CacheUtils"> jacktux/Xamarin-CacheUtils ★5 </a>: A Simple Http Restful Cache, with object caching  </li>
+<li><a href="https://github.com/baronchng/Xamarin.TOCropView">baronchng/Xamarin.TOCropView ★2 </a>: Value converters for Xamarin.Forms   </li>
+<li><a href="https://github.com/fryette/UPCarouselFlowLayout">fryette/UPCarouselFlowLayout ★2 </a>: Xamarin.iOS library for carousel flow  </li>
+<li><a href="https://github.com/andreDeVinci/MyImdb">andreDeVinci/MyImdb ★2 </a>: MyImdb is a Xamarin.MacOS app for managing your Movie preferences locally. MyImdb allows you to search for movies and add them to your local app. MyImdb uses your movie preferences to search for movie recommendations. MyImdb also generates a report of your prefered genres, and compares your ratings with IMDB ratings. </li>
+<li><a href="https://github.com/jamiewest/XamarinExtensions">jamiewest/XamarinExtensions ★1 </a>: A collection of Xamarin Forms code that makes life easier.  </li>
+ </ul>
 
 <h2><a class="anchor" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>March 2019</h2>
 
@@ -16,7 +33,7 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
   <li><a href="https://github.com/abdulrahmanelfeky/SkiaPulse-Xamarin.Forms">abdulrahmanelfeky/SkiaPulse-Xamarin.Forms ★13 </a>: Pulse animation for xamarin forms based on SkiaSharp</li>
 <li><a href="https://github.com/egbakou/BarCodeReader">egbakou/BarCodeReader ★11 </a>: Barcodes reader Project in Xamarin.Froms. </li>
 <li><a href="https://github.com/egbakou/ExportDataToExcel">egbakou/ExportDataToExcel  ★10 </a>: Export Xamarin.Forms ListView Items to Excel File. </li>
-<li><a href="https://github.com/CrossGeeks/ConnectionChangesForms">CrossGeeks/ConnectionChangesForms ★9 </a>: Handling connection changes in Xamarin Forms </li>
+
 <li><a href="https://github.com/phenixita/IC6.Xamarin.PictureUpload">phenixita/IC6.Xamarin.PictureUpload ★8 </a>: Code sample with asp.net core backend and Xamarin.Forms front-end to manage file upload. </li>
 <li><a href="https://github.com/rogerwcpt/FormTinyCalculator">rogerwcpt/FormTinyCalculator  ★8 </a>: Calculator written using Xamarin Forms (no XAML) in less than 100 lines of code running on 7 platforms..  </li>
 <li><a href="https://github.com/rogerwcpt/FormTinyCalculator">rogerwcpt/FormTinyCalculator  ★8 </a>: Calculator written using Xamarin Forms (no XAML) in less than 100 lines of code running on 7 platforms..  </li>
