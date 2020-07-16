@@ -11,7 +11,6 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
 <li><a href="https://github.com/ahoefling/CircleButtonMenu">ahoefling/CircleButtonMenu  ★19 </a>: Circle Button Menu for Xamarin.Forms </li>
 <li><a href="https://github.com/Phenek/Global.VideoPlayer">Phenek/Global.VideoPlayer ★16 </a>: A simple VideoPlayer for Xamarin.forms </li>
 <li><a href="https://github.com/CrossGeeks/ConnectionChangesForms">CrossGeeks/ConnectionChangesForms ★9 </a>: Handling connection changes in Xamarin Forms </li>
- <li><a href="https://github.com/SyncfusionExamples/xamarin-forms-appointment-scheduler">SyncfusionExamples/xamarin-forms-appointment-scheduler ★6 </a>: This repository contains a cross-platform appointment scheduler app built using Xamarin.Forms and Syncfusion scheduler control. </li>
    <li><a href="https://github.com/SyncfusionExamples/xamarin-forms-appointment-scheduler">SyncfusionExamples/xamarin-forms-appointment-scheduler ★6 </a>: This repository contains a cross-platform appointment scheduler app built using Xamarin.Forms and Syncfusion scheduler control. </li>
    <li><a href="https://github.com/jacktux/Xamarin-CacheUtils"> jacktux/Xamarin-CacheUtils ★5 </a>: A Simple Http Restful Cache, with object caching  </li>
 <li><a href="https://github.com/baronchng/Xamarin.TOCropView">baronchng/Xamarin.TOCropView ★2 </a>: Value converters for Xamarin.Forms   </li>
