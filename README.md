@@ -59,6 +59,11 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
 <li><a href="https://github.com/NobsterTheLobster/Xamarin.Forms.GridView">NobsterTheLobster/Xamarin.Forms.GridView ★60 </a>: GridView for xamarin forms. </li>
 <li><a href="https://github.com/FelipeNicoletto/SkiaSharp.Elements">FelipeNicoletto/SkiaSharp.Elements ★32 </a>: Simple way to draw and interact with elements using the library SkiaSharp. Compatible with Xamarin Forms  </li>
 <li><a href="https://github.com/andreinitescu/AnimatedHighlightApp">andreinitescu/AnimatedHighlightApp ★20 </a>: Form highlight animation with Xamarin.Forms, SkiaSharp and Xamarin.Forms built-in animations </li>
+<li><a href="https://github.com/CrossGeeks/MultipleMediaPickerSample">CrossGeeks/MultipleMediaPickerSample ★20 </a>: Sample that shows how to pick multiple images/videos in Xamarin Forms </li>
+<li><a href="https://github.com/KPS250/Xamarin-Forms-RadialProgress">KPS250/Xamarin-Forms-RadialProgress ★18 </a>: Radial Gauge Progress Indicator in Xamarin Forms </li>
+  <li><a href="https://github.com/abdulrahmanelfeky/SkiaPulse-Xamarin.Forms">abdulrahmanelfeky/SkiaPulse-Xamarin.Forms ★13 </a>: Pulse animation for xamarin forms based on SkiaSharp</li>
+<li><a href="https://github.com/egbakou/BarCodeReader">egbakou/BarCodeReader ★11 </a>: Barcodes reader Project in Xamarin.Froms. </li>
+<li><a href="https://github.com/egbakou/ExportDataToExcel">egbakou/ExportDataToExcel  ★10 </a>: Export Xamarin.Forms ListView Items to Excel File. </li>
 </ul>
 
 
