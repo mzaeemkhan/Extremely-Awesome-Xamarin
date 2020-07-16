@@ -20,6 +20,8 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
   <li><a href="https://github.com/SyncfusionExamples/xamarin.forms-sfchart">SyncfusionExamples/xamarin.forms-sfchart ★2 </a>: This is demo application of Xamarin.Forms SfChart control. The minimal set of required properties have been configured in this project to get started with SfChart in Xamarin.Forms.     </li>
   <li><a href="https://github.com/AuriR/XamarinFormsBulletListControl"> AuriR/XamarinFormsBulletListControl ★2 </a>: Bullet List Control for Xamarin.Forms      </li>
   <li><a href="https://github.com/Wenfengcheng/DZNEmptyDataSet_Xamarin">Wenfengcheng/DZNEmptyDataSet_Xamarin ★2 </a>: Xamarin.iOS binding library for DZNEmptyDataSet  </li>
+   <li><a href="https://github.com/nventive/Binding.PayPaylHereSDK.iOS"> nventive/Binding.PayPaylHereSDK.iOS  ★2 </a>: Xamarin Binding for PayPalHere SDK iOS   </li>
+    <li><a href="https://github.com/akhilgite/XamarinFormsLoginScreen">akhilgite/XamarinFormsLoginScreen ★1 </a>: Xamarin Forms Login Screen    </li>
 </ul>
 
 
