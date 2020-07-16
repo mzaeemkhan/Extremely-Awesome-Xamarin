@@ -16,6 +16,16 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
   <li><a href="https://github.com/abdulrahmanelfeky/SkiaPulse-Xamarin.Forms">abdulrahmanelfeky/SkiaPulse-Xamarin.Forms ★13 </a>: Pulse animation for xamarin forms based on SkiaSharp</li>
 <li><a href="https://github.com/egbakou/BarCodeReader">egbakou/BarCodeReader ★11 </a>: Barcodes reader Project in Xamarin.Froms. </li>
 <li><a href="https://github.com/egbakou/ExportDataToExcel">egbakou/ExportDataToExcel  ★10 </a>: Export Xamarin.Forms ListView Items to Excel File. </li>
+<li><a href="https://github.com/CrossGeeks/ConnectionChangesForms">CrossGeeks/ConnectionChangesForms ★9 </a>: Handling connection changes in Xamarin Forms </li>
+<li><a href="https://github.com/phenixita/IC6.Xamarin.PictureUpload">phenixita/IC6.Xamarin.PictureUpload ★8 </a>: Code sample with asp.net core backend and Xamarin.Forms front-end to manage file upload. </li>
+<li><a href="https://github.com/rogerwcpt/FormTinyCalculator">rogerwcpt/FormTinyCalculator  ★8 </a>: Calculator written using Xamarin Forms (no XAML) in less than 100 lines of code running on 7 platforms..  </li>
+<li><a href="https://github.com/rogerwcpt/FormTinyCalculator">rogerwcpt/FormTinyCalculator  ★8 </a>: Calculator written using Xamarin Forms (no XAML) in less than 100 lines of code running on 7 platforms..  </li>
+<li><a href="https://github.com/AndreiMisiukevich/SegmentedCircleView">AndreiMisiukevich/SegmentedCircleView  ★7 </a>: SegmentedCircleView for xamarin forms </li>
+<li><a href="https://github.com/FelipeNicoletto/MediaFilesManager"> FelipeNicoletto /
+MediaFilesManager ★6 </a>: Simple cross platform plugin to access images and videos on Android and iOS </li>
+  <li><a href="https://github.com/Softeq/Toast-xamarin-ios">Softeq/Toast-xamarin-ios ★5 </a>: Simple cross platform plugin to access images and videos on Android and iOS </li>
+      <li><a href="https://github.com/RomaRudyak/xam-spreadsheet-view-ios">RomaRudyak/xam-spreadsheet-view-ios ★2 </a>: Xamarin Binding for full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.</li>
+    <li><a href="https://github.com/Sweekriti91/MobCATOrNot">Sweekriti91/MobCATOrNot ★2 </a>: Image Recognition Mobile App using Xamarin, Custom Vision Service and Azure </li>
 </ul>
 
 
