@@ -2,26 +2,20 @@
 
 A hand-picked bookmark collection of open-source libraries/tools and projects for Xamarin Android/iOS/Windows/OSX
 
-<h2><a class="anchor" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>January 2019</h2>
+
+<h2><a class="anchor" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>March 2019</h2>
 
 <ul>
-<li><a href="https://github.com/TheEightBot/Reactive-Examples">TheEightBot/Reactive-Examples ★193 </a>: Samples App using the Reactive Extensions and Reactive UI.</li>
-<li><a href="https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT">bulubuloa/Ultimate-Xamarin-Forms-KIT ★83 </a>: A powerful 🚀 Android/iOS chart view / graph view library, binding support for Xamarin.Forms, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.</li>
-<li><a href="https://github.com/jsuarezruiz/PulseMusic">jsuarezruiz/PulseMusic ★77 </a>: Xamarin.Forms goodlooking UI sample.</li>
-<li><a href="https://github.com/rob-derosa/Hunt">rob-derosa/Hunt ★65  </a>: Hunt is a virtual scavenger hunt app where players can join a game, select a team and solve hints to acquire treasure. The team with the most points wins. </li>
-<li><a href="https://github.com/MarcBruins/TTGSnackbar-Xamarin-iOS">MarcBruins/TTGSnackbar-Xamarin-iOS ★46 </a>: No description, website, or topics provided.  </li>
-<li><a href="https://github.com/bulubuloa/SupportWidgetXF">bulubuloa/SupportWidgetXF ★41 </a>: SupportWidgetXF is a open source project that aims to provide a powerful and cross platform set of controls and helpers tailored to work with Xamarin Forms. .</li>
-<li><a href="https://github.com/longzheng/PTVGlass">longzheng/PTVGlass ★38  </a>: Melbourne Public Transport timetable for Google Glass  </li>
-<li><a href="https://github.com/ScienceSoft-Inc/TitleBar">ScienceSoft-Inc/TitleBar ★22 </a>: Customizable Xamarin.Forms title bar for Android, iOS and Windows Phone: place up to 5 buttons inside it and position/paint the bar as you want.</li>
-<li><a href="https://github.com/mattleibow/SkiaSharpAnimatedBackgrounds">mattleibow/SkiaSharpAnimatedBackgrounds ★21 </a>: Cool animated backgrounds for Xamarin.Forms with SkiaSharp. </li>  
-<li><a href="https://github.com/mallibone/PureLayout.Net">mallibone/PureLayout.Net ★11 </a>: Bringing PureLayout to Xamarin.iOS  </li>
-<li><a href="https://github.com/SyncfusionExamples/xamarin-forms-pdf-viewer-demos">SyncfusionExamples/xamarin-forms-pdf-viewer-demos ★7 </a>: This repository contains collabrative list of examples for using Syncfusion Xamarin.Forms PDF Viewer in Xamarin.Forms application in various use cases.   </li>
-<li><a href="https://github.com/afzalali15/MECalendar">afzalali15/MECalendar ★6 </a>: CalendarView with Gregorian, Hijri, and Arabic support. Specially designed for Middle East languages. Can be used globally for Gregorian calendar.    </li>
-  <li><a href="https://github.com/SyncfusionExamples/xamarin.forms-sfchart">SyncfusionExamples/xamarin.forms-sfchart ★2 </a>: This is demo application of Xamarin.Forms SfChart control. The minimal set of required properties have been configured in this project to get started with SfChart in Xamarin.Forms.     </li>
-  <li><a href="https://github.com/AuriR/XamarinFormsBulletListControl"> AuriR/XamarinFormsBulletListControl ★2 </a>: Bullet List Control for Xamarin.Forms      </li>
-  <li><a href="https://github.com/Wenfengcheng/DZNEmptyDataSet_Xamarin">Wenfengcheng/DZNEmptyDataSet_Xamarin ★2 </a>: Xamarin.iOS binding library for DZNEmptyDataSet  </li>
-   <li><a href="https://github.com/nventive/Binding.PayPaylHereSDK.iOS"> nventive/Binding.PayPaylHereSDK.iOS  ★2 </a>: Xamarin Binding for PayPalHere SDK iOS   </li>
-    <li><a href="https://github.com/akhilgite/XamarinFormsLoginScreen">akhilgite/XamarinFormsLoginScreen ★1 </a>: Xamarin Forms Login Screen    </li>
+<li><a href="https://github.com/EgorBo/Toasts.Forms.Plugin">EgorBo/Toasts.Forms.Plugin   ★256 </a>: A plugin for Xamarin and Windows - it unites Crouton (Android), TWMessageBarManager (iOS) and my toast notificator for WP8. </li>
+  <li><a href="https://github.com/stormlion227/PhotoBrowser.Forms">stormlion227/PhotoBrowser.Forms    ★68 </a>: Full screen image viewer(Xamarin.Forms) that includes "pinch to zoom" and "swipe to dismiss" gestures. </li>
+<li><a href="https://github.com/NobsterTheLobster/Xamarin.Forms.GridView">NobsterTheLobster/Xamarin.Forms.GridView ★60 </a>: GridView for xamarin forms. </li>
+<li><a href="https://github.com/FelipeNicoletto/SkiaSharp.Elements">FelipeNicoletto/SkiaSharp.Elements ★32 </a>: Simple way to draw and interact with elements using the library SkiaSharp. Compatible with Xamarin Forms  </li>
+<li><a href="https://github.com/andreinitescu/AnimatedHighlightApp">andreinitescu/AnimatedHighlightApp ★20 </a>: Form highlight animation with Xamarin.Forms, SkiaSharp and Xamarin.Forms built-in animations </li>
+<li><a href="https://github.com/CrossGeeks/MultipleMediaPickerSample">CrossGeeks/MultipleMediaPickerSample ★20 </a>: Sample that shows how to pick multiple images/videos in Xamarin Forms </li>
+<li><a href="https://github.com/KPS250/Xamarin-Forms-RadialProgress">KPS250/Xamarin-Forms-RadialProgress ★18 </a>: Radial Gauge Progress Indicator in Xamarin Forms </li>
+  <li><a href="https://github.com/abdulrahmanelfeky/SkiaPulse-Xamarin.Forms">abdulrahmanelfeky/SkiaPulse-Xamarin.Forms ★13 </a>: Pulse animation for xamarin forms based on SkiaSharp</li>
+<li><a href="https://github.com/egbakou/BarCodeReader">egbakou/BarCodeReader ★11 </a>: Barcodes reader Project in Xamarin.Froms. </li>
+<li><a href="https://github.com/egbakou/ExportDataToExcel">egbakou/ExportDataToExcel  ★10 </a>: Export Xamarin.Forms ListView Items to Excel File. </li>
 </ul>
 
 
@@ -51,19 +45,29 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
 
 </ul>
 
-<h2><a class="anchor" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>March 2019</h2>
+<h2><a class="anchor" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>January 2019</h2>
 
 <ul>
-<li><a href="https://github.com/EgorBo/Toasts.Forms.Plugin">EgorBo/Toasts.Forms.Plugin   ★256 </a>: A plugin for Xamarin and Windows - it unites Crouton (Android), TWMessageBarManager (iOS) and my toast notificator for WP8. </li>
-  <li><a href="https://github.com/stormlion227/PhotoBrowser.Forms">stormlion227/PhotoBrowser.Forms    ★68 </a>: Full screen image viewer(Xamarin.Forms) that includes "pinch to zoom" and "swipe to dismiss" gestures. </li>
-<li><a href="https://github.com/NobsterTheLobster/Xamarin.Forms.GridView">NobsterTheLobster/Xamarin.Forms.GridView ★60 </a>: GridView for xamarin forms. </li>
-<li><a href="https://github.com/FelipeNicoletto/SkiaSharp.Elements">FelipeNicoletto/SkiaSharp.Elements ★32 </a>: Simple way to draw and interact with elements using the library SkiaSharp. Compatible with Xamarin Forms  </li>
-<li><a href="https://github.com/andreinitescu/AnimatedHighlightApp">andreinitescu/AnimatedHighlightApp ★20 </a>: Form highlight animation with Xamarin.Forms, SkiaSharp and Xamarin.Forms built-in animations </li>
-<li><a href="https://github.com/CrossGeeks/MultipleMediaPickerSample">CrossGeeks/MultipleMediaPickerSample ★20 </a>: Sample that shows how to pick multiple images/videos in Xamarin Forms </li>
-<li><a href="https://github.com/KPS250/Xamarin-Forms-RadialProgress">KPS250/Xamarin-Forms-RadialProgress ★18 </a>: Radial Gauge Progress Indicator in Xamarin Forms </li>
-  <li><a href="https://github.com/abdulrahmanelfeky/SkiaPulse-Xamarin.Forms">abdulrahmanelfeky/SkiaPulse-Xamarin.Forms ★13 </a>: Pulse animation for xamarin forms based on SkiaSharp</li>
-<li><a href="https://github.com/egbakou/BarCodeReader">egbakou/BarCodeReader ★11 </a>: Barcodes reader Project in Xamarin.Froms. </li>
-<li><a href="https://github.com/egbakou/ExportDataToExcel">egbakou/ExportDataToExcel  ★10 </a>: Export Xamarin.Forms ListView Items to Excel File. </li>
+<li><a href="https://github.com/TheEightBot/Reactive-Examples">TheEightBot/Reactive-Examples ★193 </a>: Samples App using the Reactive Extensions and Reactive UI.</li>
+<li><a href="https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT">bulubuloa/Ultimate-Xamarin-Forms-KIT ★83 </a>: A powerful 🚀 Android/iOS chart view / graph view library, binding support for Xamarin.Forms, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.</li>
+<li><a href="https://github.com/jsuarezruiz/PulseMusic">jsuarezruiz/PulseMusic ★77 </a>: Xamarin.Forms goodlooking UI sample.</li>
+<li><a href="https://github.com/rob-derosa/Hunt">rob-derosa/Hunt ★65  </a>: Hunt is a virtual scavenger hunt app where players can join a game, select a team and solve hints to acquire treasure. The team with the most points wins. </li>
+<li><a href="https://github.com/MarcBruins/TTGSnackbar-Xamarin-iOS">MarcBruins/TTGSnackbar-Xamarin-iOS ★46 </a>: No description, website, or topics provided.  </li>
+<li><a href="https://github.com/bulubuloa/SupportWidgetXF">bulubuloa/SupportWidgetXF ★41 </a>: SupportWidgetXF is a open source project that aims to provide a powerful and cross platform set of controls and helpers tailored to work with Xamarin Forms. .</li>
+<li><a href="https://github.com/longzheng/PTVGlass">longzheng/PTVGlass ★38  </a>: Melbourne Public Transport timetable for Google Glass  </li>
+<li><a href="https://github.com/ScienceSoft-Inc/TitleBar">ScienceSoft-Inc/TitleBar ★22 </a>: Customizable Xamarin.Forms title bar for Android, iOS and Windows Phone: place up to 5 buttons inside it and position/paint the bar as you want.</li>
+<li><a href="https://github.com/mattleibow/SkiaSharpAnimatedBackgrounds">mattleibow/SkiaSharpAnimatedBackgrounds ★21 </a>: Cool animated backgrounds for Xamarin.Forms with SkiaSharp. </li>  
+<li><a href="https://github.com/mallibone/PureLayout.Net">mallibone/PureLayout.Net ★11 </a>: Bringing PureLayout to Xamarin.iOS  </li>
+<li><a href="https://github.com/SyncfusionExamples/xamarin-forms-pdf-viewer-demos">SyncfusionExamples/xamarin-forms-pdf-viewer-demos ★7 </a>: This repository contains collabrative list of examples for using Syncfusion Xamarin.Forms PDF Viewer in Xamarin.Forms application in various use cases.   </li>
+<li><a href="https://github.com/afzalali15/MECalendar">afzalali15/MECalendar ★6 </a>: CalendarView with Gregorian, Hijri, and Arabic support. Specially designed for Middle East languages. Can be used globally for Gregorian calendar.    </li>
+  <li><a href="https://github.com/SyncfusionExamples/xamarin.forms-sfchart">SyncfusionExamples/xamarin.forms-sfchart ★2 </a>: This is demo application of Xamarin.Forms SfChart control. The minimal set of required properties have been configured in this project to get started with SfChart in Xamarin.Forms.     </li>
+  <li><a href="https://github.com/AuriR/XamarinFormsBulletListControl"> AuriR/XamarinFormsBulletListControl ★2 </a>: Bullet List Control for Xamarin.Forms      </li>
+  <li><a href="https://github.com/Wenfengcheng/DZNEmptyDataSet_Xamarin">Wenfengcheng/DZNEmptyDataSet_Xamarin ★2 </a>: Xamarin.iOS binding library for DZNEmptyDataSet  </li>
+   <li><a href="https://github.com/nventive/Binding.PayPaylHereSDK.iOS"> nventive/Binding.PayPaylHereSDK.iOS  ★2 </a>: Xamarin Binding for PayPalHere SDK iOS   </li>
+    <li><a href="https://github.com/akhilgite/XamarinFormsLoginScreen">akhilgite/XamarinFormsLoginScreen ★1 </a>: Xamarin Forms Login Screen    </li>
 </ul>
+
+
+
 
 
