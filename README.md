@@ -13,6 +13,15 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
          <li><a href="https://github.com/fzany/Font-Awesome-Cheat-Charp">fzany/Font-Awesome-Cheat-Charp  ★14 </a>: This repo contains code that can be used to generate Font Awesome unicodes for your c# projects like WPF, Xamarin and ASP    </li>
       <li><a href="https://github.com/Softeq/ImagePicker-xamarin-ios"> Softeq/ImagePicker-xamarin-ios ★13 </a>: Xamarin iOS port of image-picker     </li>
          <li><a href="https://github.com/egbakou/TrackXamarinAppUser">  egbakou/TrackXamarinAppUser  ★9 </a>: Xamarin.Forms Sample project using App.User.LocationInfo plugin. As a reminder, the Plugin App.User.LocationInfo retrieves information about user's location without GPS activation: IP address, country name, city name, GPS coordinates (latitude and longitude), country calling code, country currency, country flag image, etc.      </li>
+       <li><a href="https://github.com/lachlanwgordon/ExtendedVisualSample">  lachlanwgordon/ExtendedVisualSample   ★9 </a>: Xamarin forms app for experimenting with Visual.  </li>
+       <li><a href="https://github.com/Guiorgy/xamarin-file-chooser">   Guiorgy/xamarin-file-chooser    ★7 </a>: A binding of android-file-chooser by hedzr </li>
+        <li><a href="https://github.com/akamud/xamarin-forms-smart-music"> akamud/xamarin-forms-smart-music ★5 </a>: Xamarin.Forms UIChallenge for Smart Music App from Dribbble</li>
+     <li><a href="https://github.com/juucustodio/Audio-Recorder-Xamarin.Forms"> juucustodio/Audio-Recorder-Xamarin.Forms  ★4 </a>: Example of how to implement audio recorder in your Xamarin.Forms applications.</li>
+     <li><a href="https://github.com/manuelmeisen/SimpleXarts">  manuelmeisen/SimpleXarts ★4 </a>: Live update Xamarin.Forms charts. Customizable, bindable, easy to use. </li>
+       <li><a href="https://github.com/kotikmoi/XamarinForms.CalendarView.Sample">kotikmoi/XamarinForms.CalendarView.Sample  ★3 </a>: CalendarView based on a CollectionView with SkCanvasView as an ItemTemplate  </li>
+      <li><a href="https://github.com/HankiDesign/DOFavoriteButton.Xamarin">HankiDesign/DOFavoriteButton.Xamarin   ★3 </a>: Xamarin.iOS port of the Swift based DOFavoriteButton control   </li>
+      <li><a href="https://github.com/juucustodio/TitleView-Xamarin.Forms"> juucustodio/TitleView-Xamarin.Forms    ★2 </a>: Example how to use NavigationPage.TitleView in Xamarin.Forms applications. </li>
+         <li><a href="https://github.com/juucustodio/Demo-ML.NET-Xamarin.Forms">  juucustodio/Demo-ML.NET-Xamarin.Forms ★2 </a>: Example of how to use framework de Machine Learning ML.NET in your Xamarin.Forms applications  </li>
      </ul>
 
 
