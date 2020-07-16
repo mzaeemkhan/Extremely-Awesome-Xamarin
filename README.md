@@ -10,14 +10,10 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
       <li><a href="https://github.com/yuv4ik/vsmacdeepclean">yuv4ik/vsmacdeepclean ★32 </a>: Visual Studio for macOS add-in / extension that brings you tasty features. </li>
        <li><a href="https://github.com/supersume/XLPagerTabStrip">supersume/XLPagerTabStrip ★28 </a>: Xamarin port of the iOS library XLPagerTabStrip </li>
        <li><a href="https://github.com/rhedgpeth/Prototype.Forms.Controls">rhedgpeth/Prototype.Forms.Controls  ★20 </a>: This sample app contains a random mixture of Xamarin/Xamarin.Forms controls, views, and functionality snippets that I've created. </li>
-     
-     
-       <li><a href="https://github.com/wilsonvargas/QRManager"> wilsonvargas/QRManager ★19 </a>: This is an example that uses ZXing.Net.Mobile for Forms.</li>
+<li><a href="https://github.com/wilsonvargas/QRManager"> wilsonvargas/QRManager ★19 </a>: This is an example that uses ZXing.Net.Mobile for Forms.</li>
        <li><a href="https://github.com/rogerwcpt/xamarin-mvvvm-frameworks">rogerwcpt/xamarin-mvvvm-frameworks ★19 </a>: A Comparison of MVVM Frameworks for Xamarin Projects </li>
        <li><a href="https://github.com/streinhard/Xamarin.Google.iOS.Maps.Utility"> streinhard/Xamarin.Google.iOS.Maps.Utility  ★4 </a>: Xamarin.iOS binding of Google Maps SDK for iOS Utility Library </li>
-       
-       
-       <li><a href="https://github.com/muhammet-mucahit/Xamarin-SubMenu"> muhammet-mucahit/Xamarin-SubMenu ★4 </a>: 📱 Defines Xamarin SubMenu Mechanism to manipulate too many menu items  </li>
+<li><a href="https://github.com/muhammet-mucahit/Xamarin-SubMenu"> muhammet-mucahit/Xamarin-SubMenu ★4 </a>: 📱 Defines Xamarin SubMenu Mechanism to manipulate too many menu items  </li>
        <li><a href="https://github.com/Lambda3/xamarin-forms-ui-challenges">Lambda3/xamarin-forms-ui-challenges ★4 </a>: The goal is to create that design in Xamarin.Forms using mainly native controls. </li>
        <li><a href="https://github.com/matthoek/GarageApp"> matthoek/GarageApp ★3 </a>: A Xamarin.Forms UI Challenge </li>
        <li><a href="https://github.com/dylanberry/VersionCheck">dylanberry/VersionCheck   ★3 </a>: Check the client version and force an upgrade - Xamarin Forms + ASP.NET Core </li>
