@@ -41,6 +41,14 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
  <li><a href="https://github.com/Softeq/IDMPhotoBrowser-xamarin-ios">Softeq/IDMPhotoBrowser-xamarin-ios ★10 </a>: Xamarin binding library for IDMPhotoBrowser iOS library </li>
 <li><a href="https://github.com/NAXAM/stripe-ios-binding">NAXAM/stripe-ios-binding ★9 </a>: Xamarin Binding Library - Stripe iOS SDK</li>
 <li><a href="https://github.com/CrossGeeks/WowzaClientPlugin">CrossGeeks/WowzaClientPlugin  ★7 </a>: Wowza Client Plugin for Xamarin iOS and Android</li>
+<li><a href="https://github.com/AmitManchanda/iOSSecondaryToolbarMenubar">AmitManchanda/iOSSecondaryToolbarMenubar ★6 </a>: This is a Xamarin forms based repository in which I created a menu bar in iPhone and iPad toolbar for secondary toolbar items same as android. </li>
+<li><a href="https://github.com/geralexgr/xamarin-forms-login-register">geralexgr/xamarin-forms-login-register ★5 </a>: This is a sample Xamarin.Forms project that uses login and registration mechanisms. </li>
+<li><a href="https://github.com/jtaubensee/XamarinActivityButton">jtaubensee/XamarinActivityButton ★4 </a>: </li>
+<li><a href="https://github.com/jsuarezruiz/VS4Mac-SamplesImporter">jsuarezruiz/VS4Mac-SamplesImporter ★3 </a>: Samples Importer is a Visual Studio for macOS addin to explorer and directly open Xamarin samples from the IDE.</li>
+<li><a href="https://github.com/grendio/XFloatingWidget">grendio/XFloatingWidget ★2 </a>: Xamarin ChatHeads </li>
+<li><a href="https://github.com/alexenriquezc/XamForms.Autocomplete">alexenriquezc/XamForms.Autocomplete  ★2 </a>: Xamarin forms bindable autocomplete control</li>
+<li><a href="https://github.com/kajach/CookBook-App">kajach/CookBook-App ★2 </a>: Cross-Platform Xamarin.Forms App </li>
+
 </ul>
 
 
