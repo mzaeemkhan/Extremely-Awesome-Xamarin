@@ -2,6 +2,20 @@
 
 A hand-picked bookmark collection of open-source libraries/tools and projects for Xamarin Android/iOS/Windows/OSX
 
+<h2><a class="anchor" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>June 2019</h2>
+
+<ul>
+     <li><a href="https://github.com/robinmanuelthiel/swipecards"> robinmanuelthiel/swipecards  ★124 </a>: Tinder-like swipe control for Xamarin.Forms </li>
+     <li><a href="https://github.com/aspnetde/MvvmNano"> aspnetde/MvvmNano   ★53 </a>: The small and smart MVVM framework made with ❤ for Xamarin.Forms.  </li>
+       <li><a href="https://github.com/NateRickard/Xamarin.Cognitive.Speech"> NateRickard/Xamarin.Cognitive.Speech ★45 </a>: A client library that makes it easy to work with the Microsoft Cognitive Services Speech Services Speech to Text API on Xamarin.iOS, Xamarin.Android, UWP, and Xamarin.Forms/.NET Standard libraries used by those platforms   </li>
+      <li><a href="https://github.com/jamesmontemagno/CircleImageView-Xamarin.Android">  jamesmontemagno/CircleImageView-Xamarin.Android ★31 </a>: A fast circle image for Xamarin.Android   </li>
+     <li><a href="https://github.com/ajsmithsw/PlacesSearchBar">   ajsmithsw/PlacesSearchBar  ★30 </a>: An extension of Xamarin.Forms SearchBar control for implementing Google Places Autocomplete API   </li>
+         <li><a href="https://github.com/fzany/Font-Awesome-Cheat-Charp">fzany/Font-Awesome-Cheat-Charp  ★14 </a>: This repo contains code that can be used to generate Font Awesome unicodes for your c# projects like WPF, Xamarin and ASP    </li>
+      <li><a href="https://github.com/Softeq/ImagePicker-xamarin-ios"> Softeq/ImagePicker-xamarin-ios ★13 </a>: Xamarin iOS port of image-picker     </li>
+         <li><a href="https://github.com/egbakou/TrackXamarinAppUser">  egbakou/TrackXamarinAppUser  ★9 </a>: Xamarin.Forms Sample project using App.User.LocationInfo plugin. As a reminder, the Plugin App.User.LocationInfo retrieves information about user's location without GPS activation: IP address, country name, city name, GPS coordinates (latitude and longitude), country calling code, country currency, country flag image, etc.      </li>
+     </ul>
+
+
 <h2><a class="anchor" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>May 2019</h2>
 
 <ul>
