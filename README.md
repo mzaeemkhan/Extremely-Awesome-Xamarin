@@ -7,18 +7,19 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
 <ul>
 <li><a href="https://github.com/TheEightBot/Reactive-Examples">TheEightBot/Reactive-Examples ★193 </a>: Samples App using the Reactive Extensions and Reactive UI.</li>
 <li><a href="https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT">bulubuloa/Ultimate-Xamarin-Forms-KIT ★83 </a>: A powerful 🚀 Android/iOS chart view / graph view library, binding support for Xamarin.Forms, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.</li>
-<li><a href="https://github.com/jsuarezruiz/PulseMusic">jsuarezruiz/PulseMusic ★77  </a>: Xamarin.Forms goodlooking UI sample.</li>
+<li><a href="https://github.com/jsuarezruiz/PulseMusic">jsuarezruiz/PulseMusic ★77 </a>: Xamarin.Forms goodlooking UI sample.</li>
 <li><a href="https://github.com/rob-derosa/Hunt">rob-derosa/Hunt ★65  </a>: Hunt is a virtual scavenger hunt app where players can join a game, select a team and solve hints to acquire treasure. The team with the most points wins. </li>
-<li><a href="https://github.com/MarcBruins/TTGSnackbar-Xamarin-iOS">MarcBruins/TTGSnackbar-Xamarin-iOS  ★46  </a>: No description, website, or topics provided.  </li>
-<li><a href="https://github.com/bulubuloa/SupportWidgetXF">bulubuloa/SupportWidgetXF ★41  </a>: SupportWidgetXF is a open source project that aims to provide a powerful and cross platform set of controls and helpers tailored to work with Xamarin Forms. .</li>
+<li><a href="https://github.com/MarcBruins/TTGSnackbar-Xamarin-iOS">MarcBruins/TTGSnackbar-Xamarin-iOS ★46 </a>: No description, website, or topics provided.  </li>
+<li><a href="https://github.com/bulubuloa/SupportWidgetXF">bulubuloa/SupportWidgetXF ★41 </a>: SupportWidgetXF is a open source project that aims to provide a powerful and cross platform set of controls and helpers tailored to work with Xamarin Forms. .</li>
 <li><a href="https://github.com/longzheng/PTVGlass">longzheng/PTVGlass ★38  </a>: Melbourne Public Transport timetable for Google Glass  </li>
-<li><a href="https://github.com/ScienceSoft-Inc/TitleBar">ScienceSoft-Inc/TitleBar ★22  </a>: Customizable Xamarin.Forms title bar for Android, iOS and Windows Phone: place up to 5 buttons inside it and position/paint the bar as you want.</li>
-<li><a href="https://github.com/mattleibow/SkiaSharpAnimatedBackgrounds">mattleibow/SkiaSharpAnimatedBackgrounds ★21  </a>: Cool animated backgrounds for Xamarin.Forms with SkiaSharp. </li>  
-<li><a href="https://github.com/mallibone/PureLayout.Net">mallibone/PureLayout.Net  ★11  </a>: Bringing PureLayout to Xamarin.iOS  </li>
-<li><a href="https://github.com/SyncfusionExamples/xamarin-forms-pdf-viewer-demos">SyncfusionExamples/xamarin-forms-pdf-viewer-demos  ★7  </a>: This repository contains collabrative list of examples for using Syncfusion Xamarin.Forms PDF Viewer in Xamarin.Forms application in various use cases.   </li>
-<li><a href="https://github.com/afzalali15/MECalendar">afzalali15/MECalendar   ★6  </a>: CalendarView with Gregorian, Hijri, and Arabic support. Specially designed for Middle East languages. Can be used globally for Gregorian calendar.    </li>
-  
-  
+<li><a href="https://github.com/ScienceSoft-Inc/TitleBar">ScienceSoft-Inc/TitleBar ★22 </a>: Customizable Xamarin.Forms title bar for Android, iOS and Windows Phone: place up to 5 buttons inside it and position/paint the bar as you want.</li>
+<li><a href="https://github.com/mattleibow/SkiaSharpAnimatedBackgrounds">mattleibow/SkiaSharpAnimatedBackgrounds ★21 </a>: Cool animated backgrounds for Xamarin.Forms with SkiaSharp. </li>  
+<li><a href="https://github.com/mallibone/PureLayout.Net">mallibone/PureLayout.Net ★11 </a>: Bringing PureLayout to Xamarin.iOS  </li>
+<li><a href="https://github.com/SyncfusionExamples/xamarin-forms-pdf-viewer-demos">SyncfusionExamples/xamarin-forms-pdf-viewer-demos ★7 </a>: This repository contains collabrative list of examples for using Syncfusion Xamarin.Forms PDF Viewer in Xamarin.Forms application in various use cases.   </li>
+<li><a href="https://github.com/afzalali15/MECalendar">afzalali15/MECalendar ★6 </a>: CalendarView with Gregorian, Hijri, and Arabic support. Specially designed for Middle East languages. Can be used globally for Gregorian calendar.    </li>
+  <li><a href="https://github.com/SyncfusionExamples/xamarin.forms-sfchart">SyncfusionExamples/xamarin.forms-sfchart ★2 </a>: This is demo application of Xamarin.Forms SfChart control. The minimal set of required properties have been configured in this project to get started with SfChart in Xamarin.Forms.     </li>
+  <li><a href="https://github.com/AuriR/XamarinFormsBulletListControl"> AuriR/XamarinFormsBulletListControl ★2 </a>: Bullet List Control for Xamarin.Forms      </li>
+  <li><a href="https://github.com/Wenfengcheng/DZNEmptyDataSet_Xamarin">Wenfengcheng/DZNEmptyDataSet_Xamarin ★2 </a>: Xamarin.iOS binding library for DZNEmptyDataSet  </li>
 </ul>
 
 
