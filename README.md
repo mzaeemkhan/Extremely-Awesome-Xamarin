@@ -12,15 +12,13 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
 <li><a href="https://github.com/MarcBruins/TTGSnackbar-Xamarin-iOS">MarcBruins/TTGSnackbar-Xamarin-iOS  ★46  </a>: No description, website, or topics provided.  </li>
 <li><a href="https://github.com/bulubuloa/SupportWidgetXF">bulubuloa/SupportWidgetXF ★41  </a>: SupportWidgetXF is a open source project that aims to provide a powerful and cross platform set of controls and helpers tailored to work with Xamarin Forms. .</li>
 <li><a href="https://github.com/longzheng/PTVGlass">longzheng/PTVGlass ★38  </a>: Melbourne Public Transport timetable for Google Glass  </li>
-
-
-
-
 <li><a href="https://github.com/ScienceSoft-Inc/TitleBar">ScienceSoft-Inc/TitleBar ★22  </a>: Customizable Xamarin.Forms title bar for Android, iOS and Windows Phone: place up to 5 buttons inside it and position/paint the bar as you want.</li>
-<li><a href="https://github.com/mattleibow/SkiaSharpAnimatedBackgrounds">mattleibow/SkiaSharpAnimatedBackgrounds ★21  </a>: Cool animated backgrounds for Xamarin.Forms with SkiaSharp. </li>
-
-
-
+<li><a href="https://github.com/mattleibow/SkiaSharpAnimatedBackgrounds">mattleibow/SkiaSharpAnimatedBackgrounds ★21  </a>: Cool animated backgrounds for Xamarin.Forms with SkiaSharp. </li>  
+<li><a href="https://github.com/mallibone/PureLayout.Net">mallibone/PureLayout.Net  ★11  </a>: Bringing PureLayout to Xamarin.iOS  </li>
+<li><a href="https://github.com/SyncfusionExamples/xamarin-forms-pdf-viewer-demos">SyncfusionExamples/xamarin-forms-pdf-viewer-demos  ★7  </a>: This repository contains collabrative list of examples for using Syncfusion Xamarin.Forms PDF Viewer in Xamarin.Forms application in various use cases.   </li>
+<li><a href="https://github.com/afzalali15/MECalendar">afzalali15/MECalendar   ★6  </a>: CalendarView with Gregorian, Hijri, and Arabic support. Specially designed for Middle East languages. Can be used globally for Gregorian calendar.    </li>
+  
+  
 </ul>
 
 
