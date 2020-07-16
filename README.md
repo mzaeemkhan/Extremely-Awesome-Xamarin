@@ -2,12 +2,38 @@
 
 A hand-picked bookmark collection of open-source libraries/tools and projects for Xamarin Android/iOS/Windows/OSX
 
+<h2><a class="anchor" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>May 2019</h2>
+
+<ul>
+     <li><a href="https://github.com/xamarin/KimonoDesigner"> xamarin/KimonoDesigner ★232 </a>: Paint application using Xamarin.Mac and SkiaSharp    </li>
+       <li><a href="https://github.com/robinmanuelthiel/swipecards"> robinmanuelthiel/swipecards ★124 </a>: Tinder-like swipe control for Xamarin.Forms    </li>
+      <li><a href="https://github.com/yuv4ik/vsmacdeepclean">yuv4ik/vsmacdeepclean ★32 </a>: Visual Studio for macOS add-in / extension that brings you tasty features. </li>
+       <li><a href="https://github.com/supersume/XLPagerTabStrip">supersume/XLPagerTabStrip ★28 </a>: Xamarin port of the iOS library XLPagerTabStrip </li>
+       <li><a href="https://github.com/rhedgpeth/Prototype.Forms.Controls">rhedgpeth/Prototype.Forms.Controls  ★20 </a>: This sample app contains a random mixture of Xamarin/Xamarin.Forms controls, views, and functionality snippets that I've created. </li>
+     
+     
+       <li><a href="https://github.com/wilsonvargas/QRManager"> wilsonvargas/QRManager ★19 </a>: This is an example that uses ZXing.Net.Mobile for Forms.</li>
+       <li><a href="https://github.com/rogerwcpt/xamarin-mvvvm-frameworks">rogerwcpt/xamarin-mvvvm-frameworks ★19 </a>: A Comparison of MVVM Frameworks for Xamarin Projects </li>
+       <li><a href="https://github.com/streinhard/Xamarin.Google.iOS.Maps.Utility"> streinhard/Xamarin.Google.iOS.Maps.Utility  ★4 </a>: Xamarin.iOS binding of Google Maps SDK for iOS Utility Library </li>
+       
+       
+       <li><a href="https://github.com/muhammet-mucahit/Xamarin-SubMenu"> muhammet-mucahit/Xamarin-SubMenu ★4 </a>: 📱 Defines Xamarin SubMenu Mechanism to manipulate too many menu items  </li>
+       <li><a href="https://github.com/Lambda3/xamarin-forms-ui-challenges">Lambda3/xamarin-forms-ui-challenges ★4 </a>: The goal is to create that design in Xamarin.Forms using mainly native controls. </li>
+       <li><a href="https://github.com/matthoek/GarageApp"> matthoek/GarageApp ★3 </a>: A Xamarin.Forms UI Challenge </li>
+       <li><a href="https://github.com/dylanberry/VersionCheck">dylanberry/VersionCheck   ★3 </a>: Check the client version and force an upgrade - Xamarin Forms + ASP.NET Core </li>
+       <li><a href="https://github.com/juucustodio/Biometric-Xamarin.Forms"> juucustodio/Biometric-Xamarin.Forms ★2 </a>: Example of how to implement Biometric Authentication in Xamarin.Forms applications   </li>
+       <li><a href="https://github.com/DarJasper/FlightsReservationApp">DarJasper/FlightsReservationApp ★2 </a>: Xamarin App to reserve airline flights.    </li>
+       <li><a href="https://github.com/matt-goldman/HotStepper">  matt-goldman/HotStepper ★2 </a>: A custom stepper for Xamarin Forms with round +/- buttons and a value displayed in between them. </li>
+     
+     </ul>
+
+
 <h2><a class="anchor" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>April 2019</h2>
 
 <ul>
      <li><a href="https://github.com/framinosona/Converters"> framinosona/Converters  ★179 </a>: Local Notifications Plugin for Xamarin and Windows   </li>
 <li><a href="https://github.com/nuitsjp/Xamarin.Forms.BehaviorsPack">nuitsjp/Xamarin.Forms.BehaviorsPack ★67 </a>: Xamarin.Forms.BehaviorsPack is Behavior class library for Xamarin.Forms.</li>
-  <li><a href="https://github.com/yuv4ik/vsmacdeepclean">yuv4ik/vsmacdeepclean ★32 </a>: Visual Studio for macOS add-in / extension that brings you tasty features. </li>
+ 
 <li><a href="https://github.com/ahoefling/CircleButtonMenu">ahoefling/CircleButtonMenu  ★19 </a>: Circle Button Menu for Xamarin.Forms </li>
 <li><a href="https://github.com/Phenek/Global.VideoPlayer">Phenek/Global.VideoPlayer ★16 </a>: A simple VideoPlayer for Xamarin.forms </li>
 <li><a href="https://github.com/CrossGeeks/ConnectionChangesForms">CrossGeeks/ConnectionChangesForms ★9 </a>: Handling connection changes in Xamarin Forms </li>
