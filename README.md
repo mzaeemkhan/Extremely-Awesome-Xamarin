@@ -10,6 +10,13 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
          <li><a href="https://github.com/CrossGeeks/xUber"> CrossGeeks/xUber ★138 </a>: Uber Clone using Xamarin Forms  </li>
       <li><a href="https://github.com/jsuarezruiz/Art-Plant-Mall"> jsuarezruiz/Art-Plant-Mall ★91 </a>: Xamarin.Forms goodlooking UI sample. </li>
       <li><a href="https://github.com/sthewissen/KickassUI.Runkeeper">  sthewissen/KickassUI.Runkeeper ★90 </a>: A Xamarin.Forms version of the Runkeeper app to prove you can create goodlooking UI with Xamarin.Forms  </li>
+         <li><a href="https://github.com/dotnet-ad/Microcharts.Samples">   dotnet-ad/Microcharts.Samples  ★72 </a>: A set of sample applications that use Microcharts. </li>
+      <li><a href="https://github.com/sthewissen/KickassUI.Chameleon"> sthewissen/KickassUI.Chameleon ★68 </a>: A Xamarin.Forms based encyclopedia UI example  </li>
+       <li><a href="https://github.com/ionixjunior/YellowClone">  ionixjunior/YellowClone  ★68 </a>: Um clone do Yellow App feito com Xamarin.Forms.   </li>
+        <li><a href="https://github.com/sthewissen/KickassUI.Traveler">   sthewissen/KickassUI.Traveler ★57 </a>: A Xamarin.Forms based travel app UI sample  </li>
+           <li><a href="https://github.com/sthewissen/KickassUI.FancyTutorial"> sthewissen/KickassUI.FancyTutorial  ★57 </a>: A simple Xamarin.Forms tutorial screen  </li>
+          <li><a href="https://github.com/dotnet-ad/Wires"> dotnet-ad/Wires ★33 </a>: Light binding library for Xamarin  </li>
+       <li><a href="https://github.com/shanranm/Balloony">  shanranm/Balloony  ★20 </a>: Xamarin Forms UI Challenge   </li>
 </ul>
 
 
