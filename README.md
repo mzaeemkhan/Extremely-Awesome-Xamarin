@@ -7,7 +7,9 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
 <ul>
      <li><a href="https://github.com/robinmanuelthiel/flexbutton"> robinmanuelthiel/flexbutton   ★241 </a>: Flexible button control for Xamarin.Forms  </li>
           <li><a href="https://github.com/sthewissen/KickassUI.Spotify">  sthewissen/KickassUI.Spotify ★209 </a>: A Xamarin.Forms version of the Spotify app to prove you can create goodlooking UI with Xamarin.Forms   </li>
-
+         <li><a href="https://github.com/CrossGeeks/xUber"> CrossGeeks/xUber ★138 </a>: Uber Clone using Xamarin Forms  </li>
+      <li><a href="https://github.com/jsuarezruiz/Art-Plant-Mall"> jsuarezruiz/Art-Plant-Mall ★91 </a>: Xamarin.Forms goodlooking UI sample. </li>
+      <li><a href="https://github.com/sthewissen/KickassUI.Runkeeper">  sthewissen/KickassUI.Runkeeper ★90 </a>: A Xamarin.Forms version of the Runkeeper app to prove you can create goodlooking UI with Xamarin.Forms  </li>
 </ul>
 
 
