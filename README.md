@@ -17,6 +17,9 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
            <li><a href="https://github.com/sthewissen/KickassUI.FancyTutorial"> sthewissen/KickassUI.FancyTutorial  ★57 </a>: A simple Xamarin.Forms tutorial screen  </li>
           <li><a href="https://github.com/dotnet-ad/Wires"> dotnet-ad/Wires ★33 </a>: Light binding library for Xamarin  </li>
        <li><a href="https://github.com/shanranm/Balloony">  shanranm/Balloony  ★20 </a>: Xamarin Forms UI Challenge   </li>
+        <li><a href="https://github.com/rlingineni/Forms-BottomSheet">  rlingineni/Forms-BottomSheet   ★16 </a>: A bottom sheet control for Xamarin Forms with Tutorial  </li>
+        <li><a href="https://github.com/sthewissen/YouTubeEmbed">  sthewissen/YouTubeEmbed ★15 </a>: Sample on how you can embed YouTube content in your Xamarin Forms app.   </li>
+     <li><a href="https://github.com/sthewissen/YouTubeEmbed">  sthewissen/YouTubeEmbed ★15 </a>: Sample on how you can embed YouTube content in your Xamarin Forms app.   </li>
 </ul>
 
 
