@@ -19,12 +19,22 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
        <li><a href="https://github.com/shanranm/Balloony">  shanranm/Balloony  ★20 </a>: Xamarin Forms UI Challenge   </li>
         <li><a href="https://github.com/rlingineni/Forms-BottomSheet">  rlingineni/Forms-BottomSheet   ★16 </a>: A bottom sheet control for Xamarin Forms with Tutorial  </li>
         <li><a href="https://github.com/sthewissen/YouTubeEmbed">  sthewissen/YouTubeEmbed ★15 </a>: Sample on how you can embed YouTube content in your Xamarin Forms app.   </li>
+          <li><a href="https://github.com/dotnet-ad/Assetxport"> dotnet-ad/Assetxport ★14 </a>: Resize UWP, Xamarin.Android and Xamarin.iOS assets automatically. </li>
+       <li><a href="https://github.com/egbakou/App.User.LocationInfo"> egbakou/App.User.LocationInfo ★14 </a>: Tracking Plugin for Xamarin. It retrieves information about user's location without GPS activation: IP address, country name, city name, GPS coordinates (latitude and longitude), country calling code, country currency, country flag image, etc. </li>
+       <li><a href="https://github.com/dotnet-ad/PagerViewController"> dotnet-ad/PagerViewController ★13 </a>: Tabs at the top of the screen for Xamarin.iOS. </li>
+         <li><a href="https://github.com/InquisitorJax/Wibci.Xamarin.Images"> InquisitorJax/Wibci.Xamarin.Images ★12 </a>: Some handy xamarin cross platform (Android / iOS / UWP) commands for image resize, analyse & convert  </li>
+         <li><a href="https://github.com/dotnet-ad/AutoFindViews"> dotnet-ad/AutoFindViews ★12 </a>: Have you ever counted the number of times your wrote 'FindViewById' in your Xamarin.Android project?  </li>
      <li><a href="https://github.com/dotnet-ad/Xam.Forms.NavigationExtensions"> dotnet-ad/Xam.Forms.NavigationExtensions  ★10 </a>: Helpers for Xamarin.Forms application navigation system : passing arguments, restoration.   </li>
-      <li><a href="https://github.com/Sankra/Xnapshot">Sankra/Xnapshot ★9 </a>: Automated, localized screenshots of your iOS app on every device using C#.    </li>
-     <li><a href="https://github.com/robece/cognitive-locator"> robece/cognitive-locator ★9 </a>: Xamarin Forms application based on Face Recognition Cognitive Service </li>
+          <li><a href="https://github.com/egbakou/FingerPrintXamarin">  egbakou/FingerPrintXamarin   ★10 </a>: Fingerprint authentication example in Xamarin.Forms.   </li>
+     <li><a href="https://github.com/juucustodio/Bluetooth-Xamarin.Forms"> juucustodio/Bluetooth-Xamarin.Forms ★10 </a>: Example of Bluetooth in Xamarin.Forms applications </li>
+ <li><a href="https://github.com/Sankra/Xnapshot">Sankra/Xnapshot ★9 </a>: Automated, localized screenshots of your iOS app on every device using C#.    </li>
+<li><a href="https://github.com/robece/cognitive-locator"> robece/cognitive-locator ★9 </a>: Xamarin Forms application based on Face Recognition Cognitive Service </li>
       <li><a href="https://github.com/robece/xamarin-adal"> robece/xamarin-adal ★8 </a>: Xamarin Forms application using the Azure Active Directory Authentication Library. </li>
       <li><a href="https://github.com/Guruumeditation/ColorPicker"> Guruumeditation/ColorPicker ★7 </a>: Android colorpicker for Xamarin </li>
        <li><a href="https://github.com/MisterioRee/OnlineResturent">  MisterioRee/OnlineResturent  ★5 </a>: Cool UI with Xamarin Froms Tested for Android Only  </li>
+         <li><a href="https://github.com/NickSpag/MobileImmersiveReader">  NickSpag/MobileImmersiveReader ★5 </a>: Use of Azure Cognitive Services' Immersive Reader in a Xamarin mobile application </li>
+         <li><a href="https://github.com/kphillpotts/FancyHamburger"> kphillpotts/FancyHamburger  ★3 </a>: A Xamarin UI Challenge to produce a fancy hamburger menu </li>
+          <li><a href="https://github.com/Oceanware/Azure-SignalR-Client-Server">  Oceanware/Azure-SignalR-Client-Server ★3 </a>: Project show using a common SignalR client HubConnection across a Xamarin.Forms and WPF application.  </li>
 </ul>
 
 
