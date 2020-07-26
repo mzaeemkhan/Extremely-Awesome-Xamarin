@@ -21,6 +21,10 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
         <li><a href="https://github.com/sthewissen/YouTubeEmbed">  sthewissen/YouTubeEmbed ★15 </a>: Sample on how you can embed YouTube content in your Xamarin Forms app.   </li>
      <li><a href="https://github.com/dotnet-ad/Xam.Forms.NavigationExtensions"> dotnet-ad/Xam.Forms.NavigationExtensions  ★10 </a>: Helpers for Xamarin.Forms application navigation system : passing arguments, restoration.   </li>
       <li><a href="https://github.com/Sankra/Xnapshot">Sankra/Xnapshot ★9 </a>: Automated, localized screenshots of your iOS app on every device using C#.    </li>
+     <li><a href="https://github.com/robece/cognitive-locator"> robece/cognitive-locator ★9 </a>: Xamarin Forms application based on Face Recognition Cognitive Service </li>
+      <li><a href="https://github.com/robece/xamarin-adal"> robece/xamarin-adal ★8 </a>: Xamarin Forms application using the Azure Active Directory Authentication Library. </li>
+      <li><a href="https://github.com/Guruumeditation/ColorPicker"> Guruumeditation/ColorPicker ★7 </a>: Android colorpicker for Xamarin </li>
+       <li><a href="https://github.com/MisterioRee/OnlineResturent">  MisterioRee/OnlineResturent  ★5 </a>: Cool UI with Xamarin Froms Tested for Android Only  </li>
 </ul>
 
 
