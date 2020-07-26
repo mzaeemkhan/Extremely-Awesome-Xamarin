@@ -19,7 +19,8 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
        <li><a href="https://github.com/shanranm/Balloony">  shanranm/Balloony  ★20 </a>: Xamarin Forms UI Challenge   </li>
         <li><a href="https://github.com/rlingineni/Forms-BottomSheet">  rlingineni/Forms-BottomSheet   ★16 </a>: A bottom sheet control for Xamarin Forms with Tutorial  </li>
         <li><a href="https://github.com/sthewissen/YouTubeEmbed">  sthewissen/YouTubeEmbed ★15 </a>: Sample on how you can embed YouTube content in your Xamarin Forms app.   </li>
-     <li><a href="https://github.com/sthewissen/YouTubeEmbed">  sthewissen/YouTubeEmbed ★15 </a>: Sample on how you can embed YouTube content in your Xamarin Forms app.   </li>
+     <li><a href="https://github.com/dotnet-ad/Xam.Forms.NavigationExtensions"> dotnet-ad/Xam.Forms.NavigationExtensions  ★10 </a>: Helpers for Xamarin.Forms application navigation system : passing arguments, restoration.   </li>
+      <li><a href="https://github.com/Sankra/Xnapshot">Sankra/Xnapshot ★9 </a>: Automated, localized screenshots of your iOS app on every device using C#.    </li>
 </ul>
 
 
