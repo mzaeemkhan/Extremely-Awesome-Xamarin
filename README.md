@@ -18,6 +18,11 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
        <li><a href="https://github.com/devcrux/xamarin-forms-shell">  devcrux/xamarin-forms-shell  ★26 </a>: Xamarin Forms Shell - Implementing Shell in Xamarin Forms 4.0</li>
      <li><a href="https://github.com/AlejandroRuiz/PlayMusicXamarinClone"> AlejandroRuiz/PlayMusicXamarinClone ★25 </a>: Google Play Music app clone using Xamarin.Forms Shell  </li>
        <li><a href="https://github.com/jesulink2514/XF-GradientButton"> jesulink2514/XF-GradientButton ★23 </a>:  Gradient button for Xamarin.Forms  </li>
+         <li><a href="https://github.com/james-russo/XamarinForms-UnobtrusiveValidationPlugin"> james-russo/XamarinForms-UnobtrusiveValidationPlugin ★21 </a>:  A plugin library that extends the functionality of FluentValidation for Xamarin. </li>
+     <li><a href="https://github.com/michael-watson/forms-xtc-guide"> michael-watson/forms-xtc-guide ★14 </a>:  A guide for Xamarin.UITest on how to interact with Xamarin.Forms elements </li>
+       <li><a href="https://github.com/TBertuzzi/Xamarin.Forms.StepProgressBar">  TBertuzzi/Xamarin.Forms.StepProgressBar ★13 </a>: 📦 Step Progress bar control in Xamarin.Forms </li>
+     <li><a href="https://github.com/brminnick/GitHubXamarin">  brminnick/GitHubXamarin ★11 </a>:</li>
+      <li><a href="https://github.com/jamesmontemagno/app-simplecontacts"> jamesmontemagno/app-simplecontacts  ★7 </a>: Simple contacts page using Xamarin.Essentials </li>
 </ul>
 
 
