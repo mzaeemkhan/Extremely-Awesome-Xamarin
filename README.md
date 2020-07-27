@@ -23,6 +23,11 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
        <li><a href="https://github.com/TBertuzzi/Xamarin.Forms.StepProgressBar">  TBertuzzi/Xamarin.Forms.StepProgressBar ★13 </a>: 📦 Step Progress bar control in Xamarin.Forms </li>
      <li><a href="https://github.com/brminnick/GitHubXamarin">  brminnick/GitHubXamarin ★11 </a>:</li>
       <li><a href="https://github.com/jamesmontemagno/app-simplecontacts"> jamesmontemagno/app-simplecontacts  ★7 </a>: Simple contacts page using Xamarin.Essentials </li>
+       <li><a href="https://github.com/KthProg/XamarinImageCaptureSample">  KthProg/XamarinImageCaptureSample  ★5 </a>: A sample project for cross-platform Xamarin Forms image capture </li>
+      <li><a href="https://github.com/bolorundurowb/firenotes"> bolorundurowb/firenotes  ★5 </a>: A simple notes app that utilizes Googles firebase for authentication and storage. Built for Android and iOS using Xamarin Forms </li>
+      <li><a href="https://github.com/maciejgos/FintechKit"> maciejgos/FintechKit  ★4 </a>: Xamarin.Forms UI Challenge - Fintech Kit </li>
+      <li><a href="https://github.com/ihorkaralash/Xamarin-Icon-Fonts">  ihorkaralash/Xamarin-Icon-Fonts ★4 </a>: Use icon fonts in your Xamarin.Android and Xamarin.iOS applications! </li>
+      <li><a href="https://github.com/Flokri/Questonaut"> Flokri/Questonaut ★4 </a>: Xamarin.Forms App to create custom ESM studies. </li>
 </ul>
 
 
