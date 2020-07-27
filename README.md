@@ -11,7 +11,7 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
        <li><a href="https://github.com/thedillonb/CodeBucket"> thedillonb/CodeBucket ★190 </a>: CodeBucket is the best way to browse and maintain your Bitbucket repositories on any iPhone, iPod Touch, and iPad device! </li>
         <li><a href="https://github.com/jsuarezruiz/xamarin-forms-page-transitions">jsuarezruiz/xamarin-forms-page-transitions ★188 </a>: Custom page transitions in a Xamarin.Forms App </li>
      <li><a href="https://github.com/nexussays/ble.net">nexussays/ble.net ★121 </a>: Cross-platform Bluetooth Low Energy (BLE) library for Android, iOS, and UWP </li>
-<ul>
+</ul>
 
 
 
