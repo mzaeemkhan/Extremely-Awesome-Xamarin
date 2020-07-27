@@ -14,6 +14,10 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
      <li><a href="https://github.com/kphillpotts/ArtAuction"> kphillpotts/ArtAuction ★104 </a>: A Xamarin.Forms Layout challenge  </li>
         <li><a href="https://github.com/devcrux/FashionApp"> devcrux/FashionApp ★50 </a>: Beautiful Fashion App Design Using Xamarin Forms  </li>
         <li><a href="https://github.com/kphillpotts/MountainMobile"> kphillpotts/MountainMobile  ★35 </a>: MountainMobile - A Xamarin.Forms UI Challenge  </li>
+       <li><a href="https://github.com/segmentio/Analytics.Xamarin"> segmentio/Analytics.Xamarin ★30 </a>: Analytics for Xamarin, a portable class library supporting iOS, Android, Mac OS, and others. </li>
+       <li><a href="https://github.com/devcrux/xamarin-forms-shell">  devcrux/xamarin-forms-shell  ★26 </a>: Xamarin Forms Shell - Implementing Shell in Xamarin Forms 4.0</li>
+     <li><a href="https://github.com/AlejandroRuiz/PlayMusicXamarinClone"> AlejandroRuiz/PlayMusicXamarinClone ★25 </a>: Google Play Music app clone using Xamarin.Forms Shell  </li>
+       <li><a href="https://github.com/jesulink2514/XF-GradientButton"> jesulink2514/XF-GradientButton ★23 </a>:  Gradient button for Xamarin.Forms  </li>
 </ul>
 
 
