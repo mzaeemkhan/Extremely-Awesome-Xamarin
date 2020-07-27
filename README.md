@@ -11,6 +11,9 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
        <li><a href="https://github.com/thedillonb/CodeBucket"> thedillonb/CodeBucket ★190 </a>: CodeBucket is the best way to browse and maintain your Bitbucket repositories on any iPhone, iPod Touch, and iPad device! </li>
         <li><a href="https://github.com/jsuarezruiz/xamarin-forms-page-transitions">jsuarezruiz/xamarin-forms-page-transitions ★188 </a>: Custom page transitions in a Xamarin.Forms App </li>
      <li><a href="https://github.com/nexussays/ble.net">nexussays/ble.net ★121 </a>: Cross-platform Bluetooth Low Energy (BLE) library for Android, iOS, and UWP </li>
+     <li><a href="https://github.com/kphillpotts/ArtAuction"> kphillpotts/ArtAuction ★104 </a>: A Xamarin.Forms Layout challenge  </li>
+        <li><a href="https://github.com/devcrux/FashionApp"> devcrux/FashionApp ★50 </a>: Beautiful Fashion App Design Using Xamarin Forms  </li>
+        <li><a href="https://github.com/kphillpotts/MountainMobile"> kphillpotts/MountainMobile  ★35 </a>: MountainMobile - A Xamarin.Forms UI Challenge  </li>
 </ul>
 
 
