@@ -8,6 +8,13 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
      <li><a href="https://github.com/adamfisher/Xamarin.Forms.VideoPlayer"> adamfisher/Xamarin.Forms.VideoPlayer ★133 </a>: A Xamarin Forms control to render the native video player on every platform</li>
       <li><a href="https://github.com/sthewissen/KickassUI.ParallaxCarousel"> sthewissen/KickassUI.ParallaxCarousel ★116 </a>: A Xamarin.Forms version of a parallax carousel to prove you can create goodlooking UI with Xamarin.Forms</li>
       <li><a href="https://github.com/devcrux/WeatherApp"> devcrux/WeatherApp ★48 </a>: Beautiful UI in Xamarin Forms </li>
+          <li><a href="https://github.com/SuavePirate/Xamarin.Flux"> SuavePirate/Xamarin.Flux ★48 </a>: Xamarin projects, templates, and examples using the Flux Pattern </li>
+     <li><a href="https://github.com/roubachof/SkiaSharpnado">  roubachof/SkiaSharpnado ★43 </a>: SkiaSharp components and case studies for Xamarin.Forms  </li>
+      <li><a href="https://github.com/kphillpotts/BookSwap"> kphillpotts/BookSwap ★40 </a>: BookSwap - A Xamarin.Forms UI Challenge </li>
+      <li><a href="https://github.com/Redth/Xamarin.AppleSignIn.Sample"> Redth/Xamarin.AppleSignIn.Sample  ★24 </a>: A sample of how to implement Apple Sign In in Xamarin.Forms for Android, iOS, and UWP </li>
+      <li><a href="https://github.com/rdavisau/lightswitch">  rdavisau/lightswitch ★24 </a>: Toggle light/dark visual override for Xamarin apps from the IDE.  </li>
+       <li><a href="https://github.com/yuv4ik/XFFacebookLoginButtonExample"> yuv4ik/XFFacebookLoginButtonExample  ★24 </a>: Using Native Facebook Login Button in Xamarin.Forms </li>
+       <li><a href="https://github.com/dev-aritra/XFSpeech"> dev-aritra/XFSpeech ★10 </a>: Sample app for Xamarin forms speech to text, using platform APIs </li>
 </ul>
 
 <h2><a class="anchor" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>August 2019</h2>
