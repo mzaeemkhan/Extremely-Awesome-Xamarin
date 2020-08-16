@@ -11,6 +11,12 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
           <li><a href="https://github.com/microsoft/ConferenceVision"> microsoft/ConferenceVision ★232 </a>: Sample Xamarin.Forms Phone App showed in Microsoft Build 2018 </li>
       <li><a href="https://github.com/jamesmontemagno/ImageCirclePlugin">jamesmontemagno/ImageCirclePlugin ★229 </a>: Circle Images for your Xamarin.Forms Applications </li>
      <li><a href="https://github.com/jamesmontemagno/DeviceInfoPlugin">jamesmontemagno/DeviceInfoPlugin  ★123 </a>: Device Information Plugin for Xamarin and Windows</li>
+      <li><a href="https://github.com/jamesmontemagno/CurrentActivityPlugin"> jamesmontemagno/CurrentActivityPlugin ★88 </a>: Always grab the current Activity of your Xamarin.Android app! </li>
+       <li><a href="https://github.com/Oceanware/XAMLPowerToys">Oceanware/XAMLPowerToys  ★86 </a>: Visual Studio 2019 extension that enables developers to rapidly generate data entry forms from view models or entity objects for Xamarin Forms, UWP, WPF, and Silverlight. </li>
+       <li><a href="https://github.com/kphillpotts/UnZone"> kphillpotts/UnZone ★70 </a>: UnZone - A Xamarin.Forms UI Challenge  </li>
+       <li><a href="https://github.com/jamesmontemagno/app-pretty-weather">  jamesmontemagno/app-pretty-weather  ★54 </a>: A very pretty weather application built with Xamarin :) </li>
+      <li><a href="https://github.com/jamesmontemagno/LaunchMapsPlugin">jamesmontemagno/LaunchMapsPlugin ★53 </a>: Launch External Maps Plugin for Xamarin and Windows  </li>
+      <li><a href="https://github.com/jamesmontemagno/TextToSpeechPlugin"> jamesmontemagno/TextToSpeechPlugin ★50 </a>: Text to Speech Plugin for Xamarin and Windows </li>
      </ul>
 
 
