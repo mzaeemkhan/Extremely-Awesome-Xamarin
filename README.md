@@ -17,6 +17,15 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
        <li><a href="https://github.com/jamesmontemagno/app-pretty-weather">  jamesmontemagno/app-pretty-weather  ★54 </a>: A very pretty weather application built with Xamarin :) </li>
       <li><a href="https://github.com/jamesmontemagno/LaunchMapsPlugin">jamesmontemagno/LaunchMapsPlugin ★53 </a>: Launch External Maps Plugin for Xamarin and Windows  </li>
       <li><a href="https://github.com/jamesmontemagno/TextToSpeechPlugin"> jamesmontemagno/TextToSpeechPlugin ★50 </a>: Text to Speech Plugin for Xamarin and Windows </li>
+      <li><a href="https://github.com/jsuarezruiz/TravellingApp"> jsuarezruiz/TravellingApp ★46 </a>: Xamarin.Forms goodlooking UI sample using the new CarouselView.</li>
+       <li><a href="https://github.com/jamesmontemagno/VibratePlugin"> jamesmontemagno/VibratePlugin  ★43 </a>: Vibrate Plugin for Windows and Xamarin</li>
+         <li><a href="https://github.com/jamesmontemagno/StoreReviewPlugin"> jamesmontemagno/StoreReviewPlugin ★43 </a>: Request app store reviews across Xamarin and Windows applications </li>
+      <li><a href="https://github.com/shanranm/XamBookLibrary"> shanranm/XamBookLibrary  ★42 </a>: Xamarin.Forms UI challenge </li>
+          <li><a href="https://github.com/jsuarezruiz/DrinksGalleryApp"> jsuarezruiz/DrinksGalleryApp ★39 </a>: Xamarin.Forms goodlooking UI sample using the new CarouselView (Parallax). </li>
+      <li><a href="https://github.com/CrossGeeks/SocialMediaAuthenticationSample"> CrossGeeks/SocialMediaAuthenticationSample  ★34 </a>: Social Media Authentication Sample in Xamarin Forms</li>
+        <li><a href="https://github.com/wcoder/PeriodicBackgroundService">  wcoder/PeriodicBackgroundService  ★32 </a>: Simple implementation of periodic background service with Xamarin. </li>
+     <li><a href="https://github.com/jamesmontemagno/BatteryPlugin">jamesmontemagno/BatteryPlugin ★25 </a>: Battery Plugin for Xamarin and Windows</li>
+       <li><a href="https://github.com/pabloprogramador/XF.HeaderShell"> pabloprogramador/XF.HeaderShell  ★21 </a>: Fantastic Header Shell, Xamarin Forms </li>
      </ul>
 
 
