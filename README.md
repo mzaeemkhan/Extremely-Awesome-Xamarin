@@ -26,6 +26,9 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
         <li><a href="https://github.com/wcoder/PeriodicBackgroundService">  wcoder/PeriodicBackgroundService  ★32 </a>: Simple implementation of periodic background service with Xamarin. </li>
      <li><a href="https://github.com/jamesmontemagno/BatteryPlugin">jamesmontemagno/BatteryPlugin ★25 </a>: Battery Plugin for Xamarin and Windows</li>
        <li><a href="https://github.com/pabloprogramador/XF.HeaderShell"> pabloprogramador/XF.HeaderShell  ★21 </a>: Fantastic Header Shell, Xamarin Forms </li>
+       <li><a href="https://github.com/DotNetToscana/CustomVisionCompanion"> DotNetToscana/CustomVisionCompanion ★17 </a>: A Xamarin.Forms app for UWP, Android & iOS showcasing how to use Custom Vision Service with either online and offline models. </li>
+      <li><a href="https://github.com/jamesmontemagno/app-SimpleSignalR"> jamesmontemagno/app-SimpleSignalR ★16 </a>: Xamarin app to listen to new items from SignalR and ASP.NET Core</li>
+      <li><a href="https://github.com/AgustinBonilla/ConfigPlugin"> AgustinBonilla/ConfigPlugin  ★15 </a>: Config plugin to Xamarin applications. </li>
      </ul>
 
 
