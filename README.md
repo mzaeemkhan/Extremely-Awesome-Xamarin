@@ -29,6 +29,9 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
        <li><a href="https://github.com/DotNetToscana/CustomVisionCompanion"> DotNetToscana/CustomVisionCompanion ★17 </a>: A Xamarin.Forms app for UWP, Android & iOS showcasing how to use Custom Vision Service with either online and offline models. </li>
       <li><a href="https://github.com/jamesmontemagno/app-SimpleSignalR"> jamesmontemagno/app-SimpleSignalR ★16 </a>: Xamarin app to listen to new items from SignalR and ASP.NET Core</li>
       <li><a href="https://github.com/AgustinBonilla/ConfigPlugin"> AgustinBonilla/ConfigPlugin  ★15 </a>: Config plugin to Xamarin applications. </li>
+      <li><a href="https://github.com/NAXAM/i18n-xamarin-forms">  NAXAM/i18n-xamarin-forms ★14 </a>: Xamarin Localization Library for Xamarin/Xamarin.Forms  </li>
+      <li><a href="https://github.com/coolc0ders/Accordion-View-Xamarin.Forms">coolc0ders/Accordion-View-Xamarin.Forms ★14 </a>: Simple Accordion in Xamarin.Forms </li>
+     <li><a href="https://github.com/JimmyPun610/Plugin.XF.Backdrop"> JimmyPun610/Plugin.XF.Backdrop ★6 </a>: Xamarin Form Backdrop Control </li>
      </ul>
 
 
