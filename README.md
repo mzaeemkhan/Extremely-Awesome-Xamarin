@@ -32,6 +32,11 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
       <li><a href="https://github.com/NAXAM/i18n-xamarin-forms">  NAXAM/i18n-xamarin-forms ★14 </a>: Xamarin Localization Library for Xamarin/Xamarin.Forms  </li>
       <li><a href="https://github.com/coolc0ders/Accordion-View-Xamarin.Forms">coolc0ders/Accordion-View-Xamarin.Forms ★14 </a>: Simple Accordion in Xamarin.Forms </li>
      <li><a href="https://github.com/JimmyPun610/Plugin.XF.Backdrop"> JimmyPun610/Plugin.XF.Backdrop ★6 </a>: Xamarin Form Backdrop Control </li>
+      <li><a href="https://github.com/CrossGeeks/ContactListSample"> CrossGeeks/ContactListSample ★4 </a>: Sample that shows how to retrieve photo contacts in Xamarin Forms  </li>
+      <li><a href="https://github.com/1iveowl/plugin.label.markdown">1iveowl/plugin.label.markdown  ★3 </a>: Xamarin Label that displays MarkDown </li>
+       <li><a href="https://github.com/johnshardman/Printing"> johnshardman/Printing  ★3 </a>: Printing functionality for Xamarin.Forms </li>
+        <li><a href="https://github.com/tobias-oschmann/ResponsiveLayout">  tobias-oschmann/ResponsiveLayout ★3 </a>: A responsive LayoutView for Xamarin.Forms where you can define multiple layout templates for different widths, platforms or device types (Idioms). </li>
+         <li><a href="https://github.com/utmdev/xf.shape"> utmdev/xf.shape ★3 </a>: You can use this component in case you want to create a component with a specific rounded corner. By default Xamarin.Forms offers Frame component which can have rounded corners but you can't customize specific corner. Also Shape component supports linear gradient.  </li>
      </ul>
 
 
