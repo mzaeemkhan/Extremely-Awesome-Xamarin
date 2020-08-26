@@ -17,6 +17,12 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
       <li><a href="https://github.com/danielmonettelli/XF_FoodApp">danielmonettelli/XF_FoodApp  ★20 </a>: Xamarin.Forms project based on my Style Library.  </li>
      <li><a href="https://github.com/couchbaselabs/CouchDraw"> couchbaselabs/CouchDraw ★17 </a>: A synchronized drawing app that utilizes Couchbase Sync Gateway and Xamarin to enable shared canvases.  </li>
      <li><a href="https://github.com/TBertuzzi/Xamarin.Forms.MaskedEntry">  TBertuzzi/Xamarin.Forms.MaskedEntry ★14 </a>: 📝 Use mask in your Xamarin.Forms apps  </li>
+     <li><a href="https://github.com/Softeq/XToolkit.Chat"> Softeq/XToolkit.Chat  ★12 </a>: Cross-platform implementation of chat for Android and iOS.  </li>
+        <li><a href="https://github.com/coolc0ders/InfinitescrollInCollectionView"> coolc0ders/InfinitescrollInCollectionView ★9 </a>: This is a demo application which shows how to implement infinite scroll with the Collection View in Xamarin Forms. </li>
+       <li><a href="https://github.com/migueBarrera/BottomSheet">  migueBarrera/BottomSheet ★7</a>: </li>
+        <li><a href="https://github.com/couchbaselabs/Chatbase"> couchbaselabs/Chatbase  ★6</a>: A simple (mobile) chat app using Couchbase Lite, Sync Gateway, and Couchbase Server. </li>
+        <li><a href="https://github.com/shanranm/Trips"> shanranm/Trips ★4</a>: Xamarin Forms UI Challenge  </li>
+      <li><a href="https://github.com/brminnick/CustomStepper"> brminnick/CustomStepper ★4</a>: Sample app showing how to set the color of a Xamarin.Forms.Stepper using effects and custom renderers </li>
 </ul>
     
 
