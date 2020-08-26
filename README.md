@@ -11,6 +11,12 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
        <li><a href="https://github.com/GillCleeren/BethanysPieShopMobile"> GillCleeren/BethanysPieShopMobile ★49 </a>: Xamarin reference architecture, used in Pluralsight course  </li>
       <li><a href="https://github.com/AnaghSharma/Ambar-Xamarin"> AnaghSharma/Ambar-Xamarin  ★44 </a>: A macOS Menu Bar app built with Xamarin and C# </li>
        <li><a href="https://github.com/shanranm/XamBookLibrary">  shanranm/XamBookLibrary  ★42 </a>: Xamarin.Forms UI challenge </li>
+        <li><a href="https://github.com/mariusmuntean/FormsRevealer"> mariusmuntean/FormsRevealer ★37 </a>: Xamarin.Forms control that can show child views with a reveal animation </li>
+       <li><a href="https://github.com/roceh/PdfSharp.Xamarin"> roceh/PdfSharp.Xamarin  ★31 </a>: PdfSharp port for iOS and Android  </li>
+      <li><a href="https://github.com/aldycool/NETCoreSync">aldycool/NETCoreSync  ★31 </a>: Database-agnostic synchronization framework based on .NET Standard 2.0 to synchronize data between multiple clients and a single server, where both platforms are using technologies that compatible with .NET Standard 2.0, such as Xamarin Forms for the mobile clients and ASP .NET Core for the backend server. </li>
+      <li><a href="https://github.com/danielmonettelli/XF_FoodApp">danielmonettelli/XF_FoodApp  ★20 </a>: Xamarin.Forms project based on my Style Library.  </li>
+     <li><a href="https://github.com/couchbaselabs/CouchDraw"> couchbaselabs/CouchDraw ★17 </a>: A synchronized drawing app that utilizes Couchbase Sync Gateway and Xamarin to enable shared canvases.  </li>
+     <li><a href="https://github.com/TBertuzzi/Xamarin.Forms.MaskedEntry">  TBertuzzi/Xamarin.Forms.MaskedEntry ★14 </a>: 📝 Use mask in your Xamarin.Forms apps  </li>
 </ul>
     
 
