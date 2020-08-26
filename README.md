@@ -7,6 +7,10 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
 <ul>
      <li><a href="https://github.com/AlexandrNikulin/AnimationNavigationPage">AlexandrNikulin/AnimationNavigationPage ★201 </a>: AnimationNavigationPage is a NavigationPage with custom transitions animation effects. </li>
      <li><a href="https://github.com/AnaghSharma/Carol"> AnaghSharma/Carol ★94 </a>: A minimal and beautiful lyrics app for macOS  </li>
+      <li><a href="https://github.com/egbakou/CreditCardCheckout">egbakou/CreditCardCheckout  ★60 </a>: Credit Card Checkout - A Xamarin.Forms UI Challenge  </li>
+       <li><a href="https://github.com/GillCleeren/BethanysPieShopMobile"> GillCleeren/BethanysPieShopMobile ★49 </a>: Xamarin reference architecture, used in Pluralsight course  </li>
+      <li><a href="https://github.com/AnaghSharma/Ambar-Xamarin"> AnaghSharma/Ambar-Xamarin  ★44 </a>: A macOS Menu Bar app built with Xamarin and C# </li>
+       <li><a href="https://github.com/shanranm/XamBookLibrary">  shanranm/XamBookLibrary  ★42 </a>: Xamarin.Forms UI challenge </li>
 </ul>
     
 
