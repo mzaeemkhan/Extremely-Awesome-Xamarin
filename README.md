@@ -8,6 +8,15 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
      <li><a href="https://github.com/pocheshire/BottomNavigationBar">pocheshire/BottomNavigationBar ★209 </a>: Bottom Navigation Bar for Xamarin  </li>
       <li><a href="https://github.com/o1298098/Xamarin-CloudMusic">o1298098/Xamarin-CloudMusic ★172 </a>: Xamarin.Forms goodlooking UI sample   </li>
       <li><a href="https://github.com/dotnet-ad/MarkdownView">dotnet-ad/MarkdownView  ★84 </a>: Native markdown rendering on top of Xamarin.Forms & Markdig. </li>
+     <li><a href="https://github.com/kphillpotts/RottenUI"> kphillpotts/RottenUI ★49 </a>: DayVsNight - A Xamarin.Forms UI Challenge </li>
+       <li><a href="https://github.com/fiveninedigital/UnifiedMaps"> fiveninedigital/UnifiedMaps ★32 </a>: A platform independent map implementation for Xamarin.Forms  </li>
+        <li><a href="https://github.com/syncfusion/xamarin-shopping-cart">syncfusion/xamarin-shopping-cart ★31 </a>: This repository contains a cross-platform shopping application built using Syncfusion Xamarin controls and Essential UI Kit.  </li>
+       <li><a href="https://github.com/kphillpotts/FurnitureStore"> kphillpotts/FurnitureStore  ★30 </a>: FurnitureStore - A Xamarin.Forms UI Challenge </li>
+      <li><a href="https://github.com/Integreat/app-cross_platform">Integreat/app-cross_platform  ★12 </a>: Mobile guide for refugees - app frontend  </li>
+       <li><a href="https://github.com/CrossGeeks/UsefulConvertersSample"> CrossGeeks/UsefulConvertersSample  ★10 </a>: Xamarin Forms useful converters list.   </li>
+      <li><a href="https://github.com/coolc0ders/SocialAuthXamarinFormsAspNetCore"> coolc0ders/SocialAuthXamarinFormsAspNetCore  ★8 </a>: Demo of how to implement social authtentication with asp.net core and Xamarin Forms  </li>
+        <li><a href="https://github.com/jaimemorais/ExpenseTracker">jaimemorais/ExpenseTracker ★7 </a>: Personal expense tracker - C# / asp.net rest api / asp.net mvc / Xamarin Forms / MongoDB / Firebase Authentication / Firebase Cloud Messaging </li>
+     <li><a href="https://github.com/balbarak/xamarin-shell-rtl"> balbarak/xamarin-shell-rtl ★6 </a>: A sample Xamarin app that, use shell RTL for Android and iOS  </li>
 </ul>
 
 
