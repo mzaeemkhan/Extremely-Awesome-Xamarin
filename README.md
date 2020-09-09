@@ -16,7 +16,8 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
        <li><a href="https://github.com/CrossGeeks/UsefulConvertersSample"> CrossGeeks/UsefulConvertersSample  ★10 </a>: Xamarin Forms useful converters list.   </li>
       <li><a href="https://github.com/coolc0ders/SocialAuthXamarinFormsAspNetCore"> coolc0ders/SocialAuthXamarinFormsAspNetCore  ★8 </a>: Demo of how to implement social authtentication with asp.net core and Xamarin Forms  </li>
         <li><a href="https://github.com/jaimemorais/ExpenseTracker">jaimemorais/ExpenseTracker ★7 </a>: Personal expense tracker - C# / asp.net rest api / asp.net mvc / Xamarin Forms / MongoDB / Firebase Authentication / Firebase Cloud Messaging </li>
-     <li><a href="https://github.com/balbarak/xamarin-shell-rtl"> balbarak/xamarin-shell-rtl ★6 </a>: A sample Xamarin app that, use shell RTL for Android and iOS  </li>
+     <li><a href="https://github.com/brminnick/OnSight">  brminnick/OnSight ★5 </a>: Xamarin.Forms app for field inspections  </li>
+     <li><a href="https://github.com/Pujolsluis/SliderViewSample">Pujolsluis/SliderViewSample ★5 </a>: Sample project for the SlideView Custom Control</li>
 </ul>
 
 
