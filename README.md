@@ -18,6 +18,10 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
         <li><a href="https://github.com/jaimemorais/ExpenseTracker">jaimemorais/ExpenseTracker ★7 </a>: Personal expense tracker - C# / asp.net rest api / asp.net mvc / Xamarin Forms / MongoDB / Firebase Authentication / Firebase Cloud Messaging </li>
      <li><a href="https://github.com/brminnick/OnSight">  brminnick/OnSight ★5 </a>: Xamarin.Forms app for field inspections  </li>
      <li><a href="https://github.com/Pujolsluis/SliderViewSample">Pujolsluis/SliderViewSample ★5 </a>: Sample project for the SlideView Custom Control</li>
+       <li><a href="https://github.com/XpiritBV/hol-xamarin-beyond-the-basics">XpiritBV/hol-xamarin-beyond-the-basics ★4 </a>: HOL Workshop - Xamarin Beyond the Basics </li>
+      <li><a href="https://github.com/muak/XamarinWidgetSample">muak/XamarinWidgetSample  ★3 </a>: Widget sample for Xamarin.Forms  </li>
+          <li><a href="https://github.com/danieltabarest/XamarinForm-SoccerApp">danieltabarest/XamarinForm-SoccerApp  ★3 </a>: App Soccer created in Xamarin form cross-platform </li>
+       <li><a href="https://github.com/saamerm/XF-YouTubeChannel-Streaming">saamerm/XF-YouTubeChannel-Streaming  ★3 </a>: iOS and Android apps in Xamarin Forms that display the stream of videos from a Youtube Channel  </li>
 </ul>
 
 
