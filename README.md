@@ -22,6 +22,7 @@ A hand-picked bookmark collection of open-source libraries/tools and projects fo
       <li><a href="https://github.com/muak/XamarinWidgetSample">muak/XamarinWidgetSample  ★3 </a>: Widget sample for Xamarin.Forms  </li>
           <li><a href="https://github.com/danieltabarest/XamarinForm-SoccerApp">danieltabarest/XamarinForm-SoccerApp  ★3 </a>: App Soccer created in Xamarin form cross-platform </li>
        <li><a href="https://github.com/saamerm/XF-YouTubeChannel-Streaming">saamerm/XF-YouTubeChannel-Streaming  ★3 </a>: iOS and Android apps in Xamarin Forms that display the stream of videos from a Youtube Channel  </li>
+       <li><a href="https://github.com/EbarriosCode/Xamarin-y-Entity-Framework-Core-SQLite">Xamarin-y-Entity-Framework-Core-SQLite ★2 </a>: Xamarin Forms 4 y Entity Framework Core SQLite, Persistencia y Acceso a Datos Locales en dispositivos móviles </li>
 </ul>
 
 
